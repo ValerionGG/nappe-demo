@@ -23,6 +23,11 @@ isolés, l’onboarding assisté et le financement mixte PSP/complément marchan
 Les droits validés restent distincts du disponible dans la simulation. Les
 propositions visuelles non intégrées sont signalées comme telles.
 
+Les tutoriels s’ouvrent dans un panneau flottant latéral sur ordinateur et une
+fenêtre compacte sur mobile, réductible sans perdre l’étape. Le guide général
+s’ouvre dans une fenêtre dédiée : il ne déplie plus le haut de page. Fermeture
+clavier, retour du focus et espace réservé à la navigation mobile inclus.
+
 La galerie publique contient les analyses et liens vers les auteurs, sans
 réhéberger les visuels tiers sans licence. Les courriels, documents internes,
 pièces jointes et sources de développement ne sont pas publiés.
