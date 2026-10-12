@@ -10,7 +10,16 @@ Ne pas saisir de documents personnels ni de coordonnées bancaires réelles.
 Hébergement statique GitHub Pages. Les fichiers `_headers` Cloudflare ne sont
 pas appliqués par GitHub Pages. Aucun backend ni authentification de production.
 
-## Mise à jour du 9 octobre 2026
+## Mise à jour du 12 octobre 2026 — Nappe Service
+
+Refonte des espaces Manager et Équipe : navigation claire, palette perle/encre/olive,
+synthèse de collecte et journal pour le manager, cagnotte personnelle et parcours
+des droits pour l’équipe. Tableaux, formulaires, financement et aide harmonisés.
+Interface testée de 320 px à 1536 px. Les flux restent entièrement simulés.
+
+Direction élaborée avec le skill MIT
+[Interface Design](https://github.com/Dammyjay93/interface-design), version
+`2f9be3206855bcb2d1d0af262c8bae25cba6658d`.
 
 - [Espace manager](https://valeriongg.github.io/nappe-demo/?view=manager#demo)
 - [Espace équipe](https://valeriongg.github.io/nappe-demo/?view=staff#demo)
